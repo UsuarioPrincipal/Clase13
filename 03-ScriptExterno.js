@@ -1,4 +1,3 @@
-// Esto es un comentario de una linea.
 console.clear();
 console.log("Estás leyendo este texto en la consola.");
 console.info("Proviene de un archivo con extensión .js");
